@@ -1,0 +1,1 @@
+{"name":"data_bag_item_jenkins_version_flukeweb","json_class":"Chef::DataBagItem","chef_type":"data_bag_item","data_bag":"jenkins_version","raw_data":{"id":"flukeweb","environment":{"development":{"version":"2.0.7"},"staging":{"version":2}},"chef_type":"data_bag_item","data_bag":"jenkins_version"}}
