@@ -1,1 +1,1 @@
-{"name":"data_bag_item_jenkins_version_streaming","json_class":"Chef::DataBagItem","chef_type":"data_bag_item","data_bag":"jenkins_version","raw_data":{"id":"streaming","environment":{"beta":{"version":"345"},"production":{"version":"343"}}}}
+{"name":"data_bag_item_jenkins_version_streaming","json_class":"Chef::DataBagItem","chef_type":"data_bag_item","data_bag":"jenkins_version","raw_data":{"id":"streaming","environment":{"beta":{"version":"346"},"production":{"version":"343"}}}}
