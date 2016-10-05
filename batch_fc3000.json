@@ -1,1 +1,1 @@
-{"name":"data_bag_item_jenkins_version_batch_fc3000","json_class":"Chef::DataBagItem","chef_type":"data_bag_item","data_bag":"jenkins_version","raw_data":{"id":"batch_fc3000","environment":{"development":{"versions":"1"},"beta":{"version":"19"},"production":{"version":"18"}}}}
+{"name":"data_bag_item_jenkins_version_batch_fc3000","json_class":"Chef::DataBagItem","chef_type":"data_bag_item","data_bag":"jenkins_version","raw_data":{"id":"batch_fc3000","environment":{"development":{"versions":"1"},"beta":{"version":"20"},"production":{"version":"18"}}}}
