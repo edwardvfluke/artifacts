@@ -1,1 +1,1 @@
-{"name":"data_bag_item_jenkins_version_gateway_monitoring","json_class":"Chef::DataBagItem","chef_type":"data_bag_item","data_bag":"jenkins_version","raw_data":{"id":"gateway_monitoring","environment":{"beta":{"version":"2"}}}}
+{"name":"data_bag_item_jenkins_version_gateway_monitoring","json_class":"Chef::DataBagItem","chef_type":"data_bag_item","data_bag":"jenkins_version","raw_data":{"id":"gateway_monitoring","environment":{"beta":{"version":"3"},"production":{"version":"2"}}}}
