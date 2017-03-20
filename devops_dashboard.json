@@ -1,1 +1,1 @@
-{"name":"data_bag_item_jenkins_version_devops_dashboard","json_class":"Chef::DataBagItem","chef_type":"data_bag_item","data_bag":"jenkins_version","raw_data":{"id":"devops_dashboard","environment":{"development":{"version":"24"},"beta":{"version":"18"},"production":{"version":""}}}}
+{"name":"data_bag_item_jenkins_version_devops_dashboard","json_class":"Chef::DataBagItem","chef_type":"data_bag_item","data_bag":"jenkins_version","raw_data":{"id":"devops_dashboard","environment":{"development":{"version":"25"},"beta":{"version":"18"},"production":{"version":""}}}}
