@@ -1,1 +1,1 @@
-{"name":"data_bag_item_jenkins_version_fccm_report","json_class":"Chef::DataBagItem","chef_type":"data_bag_item","data_bag":"jenkins_version","raw_data":{"id":"fccm_report","environment":{"beta":{"version":"20"},"production":{"version":"0"},"services-dev":{"version":"0"}}}}
+{"name":"data_bag_item_jenkins_version_fccm_report","json_class":"Chef::DataBagItem","chef_type":"data_bag_item","data_bag":"jenkins_version","raw_data":{"id":"fccm_report","environment":{"beta":{"version":"21"},"production":{"version":"0"},"services-dev":{"version":"0"}}}}
