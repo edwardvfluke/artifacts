@@ -1,1 +1,1 @@
-{"name":"data_bag_item_jenkins_version_nightcrawler","json_class":"Chef::DataBagItem","chef_type":"data_bag_item","data_bag":"jenkins_version","raw_data":{"id":"nightcrawler","environment":{"beta":{"version":"68"},"services-dev":{"version":"52"},"production":{"version":"52"}}}}
+{"name":"data_bag_item_jenkins_version_nightcrawler","json_class":"Chef::DataBagItem","chef_type":"data_bag_item","data_bag":"jenkins_version","raw_data":{"id":"nightcrawler","environment":{"beta":{"version":"69"},"services-dev":{"version":"52"},"production":{"version":"52"}}}}
