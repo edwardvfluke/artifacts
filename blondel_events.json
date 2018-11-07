@@ -1,1 +1,1 @@
-{"name":"data_bag_item_jenkins_version_blondel_events","json_class":"Chef::DataBagItem","chef_type":"data_bag_item","data_bag":"jenkins_version","raw_data":{"id":"blondel_events","environment":{"beta":{"version":"1"},"services-dev":{"version":"1"},"production":{"version":"1"}}}}
+{"name":"data_bag_item_jenkins_version_blondel_events","json_class":"Chef::DataBagItem","chef_type":"data_bag_item","data_bag":"jenkins_version","raw_data":{"id":"blondel_events","environment":{"beta":{"version":"14"},"services-dev":{"version":"1"},"production":{"version":"1"}}}}
