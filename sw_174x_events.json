@@ -1,1 +1,1 @@
-{"name":"data_bag_item_jenkins_version_sw_174x_events","json_class":"Chef::DataBagItem","chef_type":"data_bag_item","data_bag":"jenkins_version","raw_data":{"id":"sw_174x_events","environment":{"beta":{"version":"29"},"services-dev":{"version":"24"},"production":{"version":"24"}}}}
+{"name":"data_bag_item_jenkins_version_sw_174x_events","json_class":"Chef::DataBagItem","chef_type":"data_bag_item","data_bag":"jenkins_version","raw_data":{"id":"sw_174x_events","environment":{"beta":{"version":"30"},"services-dev":{"version":"24"},"production":{"version":"24"}}}}
