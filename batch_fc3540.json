@@ -1,1 +1,1 @@
-{"name":"data_bag_item_jenkins_version_batch_fc3540","json_class":"Chef::DataBagItem","chef_type":"data_bag_item","data_bag":"jenkins_version","raw_data":{"id":"batch_fc3540","environment":{"beta":{"version":"204"},"services-dev":{"version":"204"},"production":{"version":"194"}}}}
+{"name":"data_bag_item_jenkins_version_batch_fc3540","json_class":"Chef::DataBagItem","chef_type":"data_bag_item","data_bag":"jenkins_version","raw_data":{"id":"batch_fc3540","environment":{"beta":{"version":"861"},"services-dev":{"version":"204"},"production":{"version":"194"}}}}
