@@ -1,1 +1,1 @@
-{"name":"data_bag_item_jenkins_version_certificate","json_class":"Chef::DataBagItem","chef_type":"data_bag_item","data_bag":"jenkins_version","raw_data":{"id":"certificate","environment":{"beta":{"version":"74"},"production":{"version":"69"},"services-dev":{"version":"69"}}}}
+{"name":"data_bag_item_jenkins_version_certificate","json_class":"Chef::DataBagItem","chef_type":"data_bag_item","data_bag":"jenkins_version","raw_data":{"id":"certificate","environment":{"beta":{"version":"77"},"production":{"version":"69"},"services-dev":{"version":"69"}}}}
